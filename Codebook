@@ -1,0 +1,31 @@
+
+
+Code Book
+
+Samsung Galaxy S Accelerometers Data
+
+Variables: 
+
+activity :  walk = walking
+
+           walkupstairs = walking upstairs
+
+           walkingdownstaits = walking downstairs
+
+           sit = sitting 
+
+           lay = laying 
+
+subject : from 1 to 30 . Group of 30 volunteers
+that used the sensors during the 6 listed activities
+
+Variables
+3-88:  Indicates data from different
+sensors located in the subjects.  “x”,”y”,”z”
+is used to denote 3 axial signals in the directions X,Y,Z.  “t” at the beginning denotes time and “f”names
+at the begining indicates that  Fast
+Fourier Transform was applied to these signals. “mean” indicates  its a mean value “std” indicates the standard deviation.  These are used on the angle variables:
+gravitymean, tbodyaccmean, tbodyaccjerkmean, tbodygyromean and tbodygyrojerkmean
+
+ 
+
